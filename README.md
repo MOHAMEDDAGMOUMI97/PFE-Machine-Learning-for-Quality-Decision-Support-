@@ -34,7 +34,7 @@ Leak test machines already generate large volumes of data, but this data is ofte
 1. **Data Acquisition** – Extracting raw signal/measurement data from the leak test machine.
 2. **Data Preprocessing** – Cleaning, normalizing, and structuring the data for analysis.
 3. **Exploratory Data Analysis (EDA)** – Understanding trends, distributions, and correlations in the data.
-4. **Model Development** – Training machine learning models (classification/regression/anomaly detection) suited to the problem.
+4. **Model Development** – Training machine learning models (classificationn) suited to the problem.
 5. **Model Evaluation** – Assessing performance using relevant metrics (accuracy, precision, recall, F1-score, etc.).
 6. **Decision Support Integration** – Presenting model outputs in a way that supports quality decisions in real time.
 
@@ -47,7 +47,7 @@ Leak test machines already generate large volumes of data, but this data is ofte
 - **Language:** Python
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib / seaborn, (TensorFlow / PyTorch if applicable)
 - **Data Source:** Leak test machine output (CSV, sensor logs, etc.)
-- **Environment:** Jupyter Notebook / Python scripts
+
 
 ---
 
@@ -102,8 +102,5 @@ _or open the notebooks in `notebooks/` to explore the analysis step by step._
 
 ## 👤 Author
 
-_Your Name_
-_Your contact / LinkedIn / University or Company (optional)_
-
----
-
+_Ahmed ben hssain
+_ahmedbenhssain534@gmail.com 
